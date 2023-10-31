@@ -1,6 +1,5 @@
 import database
 
-#I hope the way I structured this makes some sense, I know it's not confusing to me, but I'm the one who wrote it, so yeah.
 
 menu = '''\nPlease select what you would like to do: 
 1. Insert new inventory item
